@@ -1,0 +1,17 @@
+--------------------------------
+	Author: Chungyuen Li
+	Contact: lizoyu1@gmail.com
+--------------------------------
+
+This is a class project in Optical microscopy and Imaging, using Monte Carlo method to simulate light 
+propagation in tissue, assuming it's a single layer. It's written in Matlab.
+
+It should be noticed that it's not a complete simulation of light propagation in tissue. First, it only
+simulates the situation in single-layered tissues. Second, it only records the absorption distribution in
+x-z plane and fluence, while the complete version should also records diffuse reflectance and transmittance.
+
+The theoritical details can be found in the reference.
+
+Reference: Wang, L., Jacques, S. L., Zheng, L. MCML - Monte Carlo modeling of light transport in multi-layered
+	tissues. Computer Methods and Programs in Biomedicine, 1995, 47: 131-146.
+	Wang, L. V., Wu, H. Biomedical Optics: Principles and Imaging. John Wiley & Sons, 2007.
